@@ -54,7 +54,7 @@ function initSound(soundSource) {
     drumSound.play();
 }
 
-// Hilfsfunktionen
+// Auxiliary functions
 function setUpSound(btn) {
     const key = btn.dataset.key;
     addSoundToButtons(key);  
