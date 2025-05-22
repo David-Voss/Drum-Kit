@@ -42,10 +42,10 @@ I made a few minor adjustments – for example, refining the visual feedback for
 
 ## 1. &#128444;&#65039; Preview of the application:
 ### **_Default button state:_**
-![Default state](./images/Screenshots/drum-kit1.png)<br><br>
+![Default state](./images/screenshots/drum-kit1.png)<br><br>
 ---
 ### **_Style change when a button is played:_**
-![Button style change](./images/Screenshots/drum-kit2.png)<br><br>
+![Button style change](./images/screenshots/drum-kit2.png)<br><br>
 ---
 
 ## 2. &#127760; Features
