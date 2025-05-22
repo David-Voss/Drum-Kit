@@ -8,12 +8,30 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
 
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
+  font-size: 16px;
+  padding: 1rem 0;
+}
+
+.credit {
+  text-align: center;
+  line-height: 1.6;
+}
+
+.credit a {
+  color: inherit;
+  font-style: italic;
+  text-decoration: underline dotted;
+}
+
+.credit a:hover,
+.credit a:focus {
+  text-decoration: underline;
+  outline: none;
 }
 
 .w {
@@ -48,15 +66,6 @@ footer {
   margin: 10% auto;
 }
 
-.game-over {
-  background-color: red;
-  opacity: 0.8;
-}
-
-.red {
-  color: red;
-}
-
 .drum {
   outline: none;
   border: 10px solid #404B69;
@@ -74,6 +83,10 @@ footer {
   margin: 10px;
   background-color: white;
   box-shadow: 5px 3px #000;
+}
+
+.drum:hover {
+  border: 10px solid #DA0463;
 }
 
 .pressed {
