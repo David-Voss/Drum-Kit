@@ -26,6 +26,9 @@ I made a few minor adjustments – for example, refining the visual feedback for
 
 ---
 
+> &#9888;&#65039;&#128241; **Note:** This project was designed and tested primarily for desktop browsers using mouse and keyboard input. <br>
+> Touchscreen support may be limited or inconsistent, especially on mobile devices.
+
 > **&#128279; Live Demo on GitHub Pages:**  
 > &#128073; [Drum Kit Web App](https://david-voss.github.io/Drum-Kit/)
 
