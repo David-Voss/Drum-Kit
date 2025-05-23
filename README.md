@@ -47,7 +47,7 @@ I made a few minor adjustments – for example, refining the visual feedback for
 ### **_Default button state:_**
 ![Default state](./images/screenshots/drum-kit1.png)<br><br>
 ---
-### **_Style change when a button is played:_**
+### **_Style change while a button is pressed:_**
 ![Button style change](./images/screenshots/drum-kit2.png)<br><br>
 ---
 
